@@ -139,8 +139,8 @@ text { font-family: 'Poppins', -apple-system, BlinkMacSystemFont, 'Segoe UI', Ro
 <!-- Animated Cycling Roles -->
 <text x="70" y="262" font-size="28" font-weight="600" fill="#8FFFE0" opacity="0">AI &amp; Data Science Fresher<animate attributeName="opacity" dur="12.8s" repeatCount="indefinite" values="0;0;1;1;0;0" keyTimes="0;0.001;0.03;0.210;0.245;1"/></text>
 <text x="70" y="262" font-size="28" font-weight="600" fill="#8FFFE0" opacity="0">Data Scientist Aspirant<animate attributeName="opacity" dur="12.8s" repeatCount="indefinite" values="0;0;1;1;0;0" keyTimes="0;0.250;0.280;0.460;0.495;1"/></text>
-<text x="70" y="262" font-size="28" font-weight="600" fill="#8FFFE0" opacity="0">Python &amp; Machine Learning Enthusiast<animate attributeName="opacity" dur="12.8s" repeatCount="indefinite" values="0;0;1;1;0;0" keyTimes="0;0.500;0.530;0.710;0.745;1"/></text>
-<text x="70" y="262" font-size="28" font-weight="600" fill="#8FFFE0" opacity="0">Computer Vision Explorer<animate attributeName="opacity" dur="12.8s" repeatCount="indefinite" values="0;0;1;1;0;0" keyTimes="0;0.750;0.780;0.960;0.995;1"/></text>
+<text x="70" y="262" font-size="28" font-weight="600" fill="#8FFFE0" opacity="0">Machine Learning &amp; Deep Learning<animate attributeName="opacity" dur="12.8s" repeatCount="indefinite" values="0;0;1;1;0;0" keyTimes="0;0.500;0.530;0.710;0.745;1"/></text>
+<text x="70" y="262" font-size="28" font-weight="600" fill="#8FFFE0" opacity="0">Computer Vision &amp; Generative AI<animate attributeName="opacity" dur="12.8s" repeatCount="indefinite" values="0;0;1;1;0;0" keyTimes="0;0.750;0.780;0.960;0.995;1"/></text>
 
 <text x="70" y="318" font-size="15" font-weight="400" fill="#dfe4ff" opacity=".9">Computer Science graduate exploring Machine Learning, Computer Vision and Data Science.</text>
 

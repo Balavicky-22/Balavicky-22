@@ -43,11 +43,11 @@
 </td>
 <td width="50%" align="center" valign="top">
 <br/>
-<img src="./assets/neural-intelligence.svg" width="95%" alt="Madurai College AI showcase"/>
+<a href="https://madurai-college-ai.onrender.com/index.html"><img src="./assets/neural-intelligence.svg" width="95%" alt="Madurai College AI showcase"/></a>
 <h3>Madurai College AI</h3>
-<sub>Python · AI Assistant · NLP Foundations · Grounded Knowledge Base</sub>
+<sub>Python · AI Assistant · NLP Foundations · Grounded Knowledge Base · Render</sub>
 <p>An AI-powered information assistant designed around localized college information using a grounded domain knowledge base for contextual question answering.</p>
-<b>💡 Academic &amp; Localized AI System</b>
+<a href="https://madurai-college-ai.onrender.com/index.html"><b>🔗 Live Demo</b></a>
 <br/><br/>
 </td>
 </tr>
@@ -93,8 +93,8 @@
 </td>
 <td width="33%" align="center" valign="top">
 <br/>
-<img src="./assets/certs/elysium_ai_ds.jpg" width="95%" alt="Elysium Academy — AI &amp; Data Science"/><br/>
-<sub><b>AI &amp; Data Science Program</b><br/>Elysium Academy · 2024</sub>
+<img src="./assets/certs/elysium_ai_ds.jpg" width="95%" alt="AI With DataScience Course Completion Certificate"/><br/>
+<sub><b>AI With DataScience Course Completion Certificate</b><br/>Elysium Academy · Jun 2026 – Aug 2026</sub>
 <br/><br/>
 </td>
 </tr>

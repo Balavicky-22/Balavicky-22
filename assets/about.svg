@@ -53,8 +53,8 @@ text { font-family: 'Poppins', -apple-system, BlinkMacSystemFont, 'Segoe UI', Ro
 
 <text x="40" y="66" font-size="15" fill="#dfe4ff" class="fu" style="animation-delay:0.0s">B.Sc. Computer Science graduate from The American College, Madurai (2026) with</text>
 <text x="40" y="96" font-size="15" fill="#dfe4ff" class="fu" style="animation-delay:0.15s">a focused interest in Artificial Intelligence, Machine Learning, and Data Science.</text>
-<text x="40" y="126" font-size="15" fill="#dfe4ff" class="fu" style="animation-delay:0.3s">Practical foundations in Python programming, data handling (NumPy, Pandas),</text>
-<text x="40" y="156" font-size="15" fill="#dfe4ff" class="fu" style="animation-delay:0.45s">data visualization (Matplotlib, Seaborn), and core machine learning algorithms.</text>
+<text x="40" y="126" font-size="15" fill="#dfe4ff" class="fu" style="animation-delay:0.3s">Practical foundations in Python, data handling (NumPy, Pandas), visualization (Matplotlib, Seaborn),</text>
+<text x="40" y="156" font-size="15" fill="#dfe4ff" class="fu" style="animation-delay:0.45s">ML algorithms (KNN, PCA, Regression, Trees, K-Means), Deep Learning (CNN), NLP and Computer Vision.</text>
 <text x="40" y="186" font-size="15" fill="#dfe4ff" class="fu" style="animation-delay:0.6s">Dedicated to continuous learning, building practical AI applications, and understanding</text>
 <text x="40" y="216" font-size="15" fill="#dfe4ff" class="fu" style="animation-delay:0.75s">data-driven systems from foundational principles to deployment.</text>
 
@@ -68,7 +68,7 @@ text { font-family: 'Poppins', -apple-system, BlinkMacSystemFont, 'Segoe UI', Ro
 <g class="bob" style="animation-delay:0.4s">
   <rect x="325" y="260" width="255" height="100" rx="16" fill="#00c9a7" fill-opacity=".08" stroke="#00c9a7" stroke-opacity=".45"/>
   <text x="452" y="308" text-anchor="middle" font-size="30" font-weight="800" fill="url(#nm)">2</text>
-  <text x="452" y="336" text-anchor="middle" font-size="13" fill="#7e7ea9">Featured Projects</text>
+  <text x="452" y="336" text-anchor="middle" font-size="13" fill="#7e7ea9">Live Featured Projects</text>
 </g>
 
 <g class="bob" style="animation-delay:0.8s">
